@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/satchmo496/STIAT_Valence/blob/main/script'], function(APIConstructor, stiatExtension){
+define(['pipAPI', 'https://raw.githubusercontent.com/satchmo496/STIAT-Valence/main/script'], function(APIConstructor, stiatExtension){
 	
 	var API = new APIConstructor();
 		  return stiatExtension({
